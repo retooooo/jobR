@@ -1,0 +1,11 @@
+Package: jobR
+Type: Package
+Title: Job Execution Handling
+Version: 0.1.0
+Author: Reto Ledermann
+Maintainer: Reto Ledermann <reto.ledermann@zurich.ch>
+Description: Design robust data processing jobs. Execute and log sub-steps.
+License: What license is it under?
+Depends: R6, config, diagram, knitr
+Encoding: UTF-8
+LazyData: true
